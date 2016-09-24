@@ -1,3 +1,5 @@
+# No Semicolon Version for vscode-react from xabikos 
+
 # Reactjs
 ## VS Code Reactjs snippets
 -------------------
